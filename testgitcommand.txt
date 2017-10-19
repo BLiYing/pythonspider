@@ -1,4 +1,7 @@
 :wq
 creating a new branch is quick
+
 hahahhahahh
 
+branch features
+feature1
