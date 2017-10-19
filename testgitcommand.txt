@@ -1,2 +1,3 @@
 :wq
 creating a new branch is quick
+branch features
