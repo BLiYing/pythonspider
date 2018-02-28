@@ -3,11 +3,11 @@
 
 网站化学物质排布方式
 
-![image](https://github.com/BLiYing/pythonspider/tree/master/image/huaxue.png)
+![image] (https://github.com/BLiYing/pythonspider/tree/master/image/huaxue.png)
 
 找到符合要求的数据，插入到Excel表格中的结果：
 
-![image](https://github.com/BLiYing/pythonspider/tree/master/image/result.png)
+![image] (https://github.com/BLiYing/pythonspider/tree/master/image/result.png)
 
 代码说明：
 网站说明中说它一共有96万条及以上数据。朋友需要的数据只有1万6千条符合条件。需要全部检索出来并插入excel表格。
