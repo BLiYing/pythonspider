@@ -21,4 +21,4 @@
 
 3.改进的地方有：增加登录失效后自动重连，错误catch处理，代码复用。
 
-该网站基本没有ip禁入的设置，美国人真是大方，花了几亿美金做的[医药类化学物质分类网站](https://metlin.scripps.edu/landing_page.php?pgcontent=advanced_search)。
+注意ip禁用。据说花了几亿美金做的[医药类化学物质分类网站](https://metlin.scripps.edu/landing_page.php?pgcontent=advanced_search)。
